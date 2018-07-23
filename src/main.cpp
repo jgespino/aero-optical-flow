@@ -51,7 +51,7 @@ static struct {
 		{160, 120},
 };
 
-#define DEFAULT_RESOLUTION 1
+#define DEFAULT_RESOLUTION 2
 #define DEFAULT_IMG_WIDTH resolutions[DEFAULT_RESOLUTION].width
 #define DEFAULT_IMG_HEIGHT resolutions[DEFAULT_RESOLUTION].height
 #define DEFAULT_IMG_CROP_WIDTH 128
